@@ -1,5 +1,4 @@
 #include "spst.h"
-#include "structs.h"
 #include <cstdlib>
 #include <iomanip>
 #include <iostream>
